@@ -426,7 +426,6 @@ function App() {
     setPracticeTotal(0)
     setPracticeFinished(false)
 
-    // STEP 33
     setPracticeAnswered(0)
 
     setPracticeMode(true)
